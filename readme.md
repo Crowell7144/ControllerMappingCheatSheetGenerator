@@ -1,6 +1,6 @@
 # Controll Mapping CheatSheet Generator
 
-### これは、Googleスプレッドシートを読み込んで以下のようなチートシート形式のhtmlを作成するpythonスクリプトです。
+### これは、Googleスプレッドシートを読み込んでチートシート形式のhtmlを作成するpythonスクリプトです。
 
 ![](https://i.imgur.com/apqoWV8.png)
 
@@ -66,8 +66,8 @@ promptfont.ttf と promptfont.css が出力したhtmlと同じフォルダにな
 
 ## ライセンス
 
-PromptFont以外の改変再配布は自由です
+PromptFontをお借りしているので、それ以外の私が作成したコードの改変再配布は自由です
 
-PromptFontを再配布に含める場合、以下のライセンス表記とPromptFont_LICENSE.txtを必ず含めてください。
+promptfont.ttf, promptfont.css を再配布に含める場合、以下のライセンス表記とPromptFont_LICENSE.txtを必ず含めてください。
 
 PromptFont by Yukari "Shinmera" Hafner, available at https://shinmera.com/promptfont.
