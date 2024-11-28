@@ -17,6 +17,8 @@ https://docs.google.com/spreadsheets/d/1NIvgQVh1ZhREIm9pfodCtfDpS69uStkprdRDWNBE
 
 作者のスプレッドシートのリンクが死んだりした場合は、paste.txtと同形式のタブ区切りデータが出力できるスプレッドシートを作るなどしてください。
 認識するボタン文字列は以下の通りです。
+
+```
 A, B, X, Y
 LB, RB, LT, RT
 LS, LS:X, LS:Y, LS:XY
@@ -27,16 +29,18 @@ Start, Back
 LP1, LP2 (エリコン左パドル)
 RP1, RP2 (エリコン右パドル)
 / (おまけ:コントローラーのアイコンになります)
+```
 
 ## 実行方法
 
-コマンドプロンプトから
-python tsv2html.py
-でフォルダ内にhtmlが出力されます。
+コマンドプロンプトから `python tsv2html.py `でフォルダ内にhtmlが出力されます。
+
 ブラウザで開いて印刷するなりサブ画面に表示するなりして使ってください。
-python tsv2html.py -c 2 を実行すると、チートシートに出力される列が2つになります。
-その他のオプションについては、
-python tsv2html.py -h を実行するとオプションコマンドの説明とか表示されます。
+
+`python tsv2html.py -c 2` を実行すると、チートシートに出力される列が2つになります。
+
+その他のオプションについては、`python tsv2html.py -h` を実行するとオプションコマンドの説明とか表示されます。
+
 
 ## 出力内容の調整について
 
