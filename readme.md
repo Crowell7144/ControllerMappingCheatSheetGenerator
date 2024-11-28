@@ -1,6 +1,8 @@
 # Controll Mapping CheatSheet Generator
 
-### これは、Googleスプレッドシートを読み込んでチートシート形式のhtmlを作成するpythonスクリプトです。
+### これは、Googleスプレッドシートを読み込んで以下のようなチートシート形式のhtmlを作成するpythonスクリプトです。
+
+![](https://i.imgur.com/apqoWV8.png)
 
 ## 必要な事前準備
 
