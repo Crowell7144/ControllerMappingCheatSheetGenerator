@@ -1,0 +1,152 @@
+Category	SubCategory	Name	Mapping
+Flight Control Surfaces		Ailerons Axis	LS:X
+Flight Control Surfaces		Elevator Axis	LS:Y
+Flight Control Surfaces		Rudder Axis Left	LT
+Flight Control Surfaces		Rudder Axis Right	RT
+Flight Control Surfaces		Decrease Flaps	B, ▲
+Flight Control Surfaces		Increase Flaps	B, ▼
+Flight Control Surfaces		Toggle Spoilers	B, ▶
+Flight Control Surfaces		Toggle Arm Spoilers	B, Y, ▶
+Flight Control Surfaces		Elevator Trim Down	Y
+Flight Control Surfaces		Elevator Trim Up	X
+Flight Control Surfaces		Aileron Trim	B, LS:X
+Flight Control Surfaces		Set Aileron Trim (0)	B, LS:Y
+Flight Control Surfaces		Rudder Trim	B, Y, LS:X
+Flight Control Surfaces		Rudder Trim Reset	B, Y, LS:Y
+Power Management	Throttle	Decrease Throttle	LB
+Power Management	Throttle	Increase Throttle	RB
+Power Management	Throttle	Throttle Next Detent	B, RB
+Power Management	Throttle	Throttle Prev Detent	B, LB
+Power Management	Throttle	Arm Autothrottle	LB, RB
+Power Management	Throttle	Autothrottle TOGA	B, LB, RB
+Power Management	Throttle	Toggle Reverse Thrust	B, ◀
+Power Management	Mixture	Decrease Mixture	B, Y, LB
+Power Management	Mixture	Increase Mixture	B, Y, RB
+Power Management	Mixture	Set Best Mixture	B, Y, LB, RB
+Power Management	Propeller	Decrease Propeller Pitch	A, ◀
+Power Management	Propeller	Increase Propeller Pitch	A, ▶
+Instruments And Systems	Cockpit Interaction	Interaction Toggle	A, LS
+Instruments And Systems	Cockpit Interaction	Cursor Toggle	B, LS
+Instruments And Systems	Cockpit Interaction	Primary Action	A
+Instruments And Systems	Cockpit Interaction	Secondary Action	X
+Instruments And Systems	Cockpit Interaction	Tertiary Action	Y
+Instruments And Systems	Flight Instruments	Decrease Altimeter	A, ▲
+Instruments And Systems	Flight Instruments	Increase Altimeter	A, ▼
+Instruments And Systems	Flight Instruments	Decrease Heading BUG	B, LT
+Instruments And Systems	Flight Instruments	Increase Heading BUG	B, RT
+Instruments And Systems	Flight Instruments	Set AP Current HDG	B, LT, RT
+Instruments And Systems	Brakes And Landing Gears	Brakes	A
+Instruments And Systems	Brakes And Landing Gears	Toggle Parking Brakes	B, A
+Instruments And Systems	Brakes And Landing Gears	Toggle Landing Gear	LS
+Instruments And Systems	Brakes And Landing Gears	Toggle Water Rudder	B, ◀
+Instruments And Systems	Interior Lights	Toggle Flashlight	B, Y, LS
+Instruments And Systems	Gimmics	Auto Start Engine	A, RB, ▲
+Instruments And Systems	Gimmics	Stop Engine	A, RB, ▼
+Instruments And Systems	Gimmics	Smoke/TailHook/Spray	B, Y, ▼
+Player Character		Take Controll Character	◀▼, RS
+Player Character		Chara Cursor Mode	LS
+Player Character		Interact	A
+Player Character		Toggle Crouch	X
+Player Character		Set Run	RT
+Autopilot		Toggle Flight Director	A, X, Start
+Autopilot		Toggle Yaw Damper	A, X, Back
+Autopilot		Toggle AP Master	A, X, LS
+Autopilot		Toggle AP Heading Hold	A, X, LT, RT
+Autopilot		AP NAV1 Hold	A, X, ▶
+Autopilot		Toggle AP Approach Hold	A, X, ◀
+Autopilot		Decrease AP Ref Altitude	A, X, ▲
+Autopilot		Increase AP Ref Altitude	A, X, ▼
+Autopilot		Toggle AP VS Hold	A, LB, RB
+Autopilot		Toggle AP FLC	A, X, LB, RB
+Autopilot		Dec AP Ref AirSpeed	A, X, LB
+Autopilot		Inc AP Ref AirSpeed	A, X, RB
+Autopilot		Decrease AP Ref VS	A, X, LB
+Autopilot		Increase AP Ref VS	A, X, RB
+Communication		TogglePushback	RP1, RT
+Communication		Open Comm Panel	RP1, LB
+Communication		Quick Reply	RP1, RB
+Communication		ATC Panel Choice1	RP1, Y
+Communication		ATC Panel Choice2	RP1, B
+Communication		ATC Panel Choice3	RP1, A
+Communication		ATC Panel Choice4	RP1, X
+Communication		ATC Panel Choice5	RP1, ▲
+Communication		ATC Panel Choice6	RP1, ▶
+Communication		ATC Panel Choice7	RP1, ▼
+Communication		ATC Panel Choice8	RP1, ◀
+Communication		ATC Panel Choice9	RP1, Start
+Communication		ATC Panel Choice0	RP1, Back
+Menu		Toggle Active Pause	Start
+Menu		Toggle Pause	B, Start
+Menu		Toggle EFB	A, Back
+Camera		Cockpit/Ext View Mode	Back
+Camera		Toggle Drone	B, Back
+Camera		Toggle Slew Mode	B, Y, Back
+Camera	Cockpit Camera	Reset Cockpit View	RS
+Camera	Cockpit Camera	Prev Pilot Position	▼
+Camera	Cockpit Camera	Next Pilot Position	▲
+Camera	Cockpit Camera	Prev Instrument View	◀
+Camera	Cockpit Camera	Next Instrument View	▶
+Camera	Cockpit Camera	Zoom Cockpit View	B, Y, RT
+Camera	Cockpit Camera	Unzoom Cockpit View	B, Y, LT
+Camera	Cockpit Camera	Toggle Cockpit Freelook	A, LB
+Camera	Cockpit Camera	Toggle HUD View	A, LB, ▲
+Camera	Cockpit Camera	Cockpit Quickview Left	A, LB, ◀
+Camera	Cockpit Camera	Cockpit Quickview Right	A, LB, ▶
+Camera	Cockpit Camera	Load Next Custom Cam	A, LB, ▼
+Camera	Smart Camera	Toggle Smart Camera	X, Y
+Camera	Smart Camera	Prev Smartcam Target	X, Y, ◀
+Camera	Smart Camera	Next Smartcam Target	X, Y, ▶
+Camera	Smart Camera	Reset Smartcam Target	X, Y, ▼
+Camera	Smart Camera	Select Next POI	X, Y, ▲
+Camera	Slew Mode	Slew Roll	LB, RS:X
+Camera	Slew Mode	Slew Translate Down	LT
+Camera	Slew Mode	Slew Translate Up	RT
+Drone		Toggle Drone	B, Back
+Drone		Toggle DroneFollowMode	A
+Drone		Toggle Drone Lock Mode	B
+Drone		Attach DroneNextTarget	▶
+Drone		Attach DronePrevTarget	◀
+Drone		Lock DroneNextTarget	▲
+Drone		Lock DronePrevTarget	▼
+Drone		Set Drone Target	X, LS
+Drone		Reset DroneTargetOffset	LS
+Drone		Translate Drone	LS:XY
+Drone		Translate Drone Down	LT
+Drone		Translate Drone Up	RT
+Drone		Dec Drone Rotation SPD	Y, ▼
+Drone		Inc Drone Rotation SPD	Y, ▲
+Drone		Dec Drone Trans SPD	Y, ◀
+Drone		Inc Drone Trans SPD	Y, ▶
+Drone		Drone Pitch Axis	RS:Y
+Drone		Drone Yaw Axis	RS:X
+Drone		Drone Roll Axis	LB, RS:X
+Drone		Reset Drone Roll	RS
+Drone		Increase Drone Zoom	Y, RT
+Drone		Decrease Drone Zoom	Y, LT
+Drone		Drone Top Down View	X, Y
+Drone	Camera Effect	Dec Drone Depth of Field	LB, ◀
+Drone	Camera Effect	Inc Drone Depth of Field	LB, ▶
+Drone	Camera Effect	Dec Drone Exposure	LB, ▼
+Drone	Camera Effect	Inc Drone Exposure	LB, ▲
+Drone	Camera Effect	Toggle Drone DoF	X, ◀
+Drone	Camera Effect	Toggle Drone AE	X, ▲
+Drone	Camera Effect	Toggle Foreground Blur	X, ▶
+Drone	Camera Effect	Toggle Drone Auto Focus	X, ▼
+Photo Mode		Photo Mode Toggle	▼▶
+Photo Mode		Take Picture	A
+Photo Mode		Photo Mode Off	B
+Photo Mode		Translate X/Z Axis	LS:XY
+Photo Mode		Move Down	LT
+Photo Mode		Move Up	RT
+Photo Mode		Zoom In	Y, RT
+Photo Mode		Zoom Out	Y, LT
+Photo Mode		Rotate X/Y Axis	RS:XY
+Photo Mode		Rotate Z Axis	LB, RS:X
+Photo Mode		Reset Horizon	RS
+Photo Mode	Camera Effect	Toggle Auto Exposure	X, ▲
+Photo Mode	Camera Effect	Decrease Exposure	LB, ▼
+Photo Mode	Camera Effect	Increase Exposure	LB, ▲
+Photo Mode	Camera Effect	Toggle Auto Focus	X, ▶
+Photo Mode	Camera Effect	Focus Decrease	LB, ◀
+Photo Mode	Camera Effect	Focus Increase	LB, ▶
+MSFS2024 Controller Mappings		Ver.2024/11/28	/
