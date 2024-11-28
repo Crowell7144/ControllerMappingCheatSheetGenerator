@@ -10,9 +10,15 @@ python実行環境が必要です。Microsoftストアなどからダウンロ�
 
 Googleスプレッドシートを読み込んで、チートシート形式のhtmlを作成するには、[このスプレッドシート](https://docs.google.com/spreadsheets/d/1NIvgQVh1ZhREIm9pfodCtfDpS69uStkprdRDWNBEOG8/edit?usp=sharing)を自分のアカウントにコピーして編集してください。
 
+![](https://i.imgur.com/BLCTSpa.png)
+
 編集後、config.iniでデフォルトの読み込みファイルにURLを設定します。
 
 スプレッドシートのページで、ファイル＞共有＞ウェブに公開＞読み込み対象のシート＞タブ区切りの値(.tsv)を選択してから、公開リンクをコピーして設定してください。
+
+![](https://i.imgur.com/uH5OLNF.png)
+
+![](https://i.imgur.com/8hCAwmZ.png)
 
 スプレッドシートを使わず、paste.txtを直接編集することも可能です。タブ区切りを維持するように気をつけてください。
 
