@@ -8,7 +8,7 @@ python実行環境が必要です。Microsoftストアなどからダウンロ�
 
 最初はローカルフォルダのpaste.txtを読み込むようになっています。
 
-Googleスプレッドシートを読み込んで、チートシート形式のhtmlを作成するには、[このスプレッドシート](`https://docs.google.com/spreadsheets/d/1NIvgQVh1ZhREIm9pfodCtfDpS69uStkprdRDWNBEOG8/edit?usp=sharing`)を自分のアカウントにコピーして編集してください。
+Googleスプレッドシートを読み込んで、チートシート形式のhtmlを作成するには、[このスプレッドシートhttps://docs.google.com/spreadsheets/d/1NIvgQVh1ZhREIm9pfodCtfDpS69uStkprdRDWNBEOG8/edit?usp=sharing](`https://docs.google.com/spreadsheets/d/1NIvgQVh1ZhREIm9pfodCtfDpS69uStkprdRDWNBEOG8/edit?usp=sharing`)を自分のアカウントにコピーして編集してください。
 
 編集後、config.iniでデフォルトの読み込みファイルにURLを設定します。
 
